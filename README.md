@@ -12,6 +12,9 @@ Hi 👋 I'm Younesse
 - HTML / CSS / JavaScript
 - .NET / React
 
+[![yobouaji's 42 stats](https://badge.mediaplus.ma/binary/yobouaji)](https://profile.intra.42.fr/users/yobouaji)
+
+
 ### 📂 Projects
 - push_swap (42)
 - C# desktop applications
