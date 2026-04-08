@@ -19,6 +19,9 @@ Hi 👋 I'm Younesse
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:oali@gmail.com">Email Me</a>
+<a href="mailto:yourname@gmail.com?subject=Inquiry&body=Hi, I have a question about...">
+  Send us a message
+</a>
 <p align="left">
 </p>
 
